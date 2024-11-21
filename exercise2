@@ -1,0 +1,5 @@
+myName = "Aubrey"
+myname = "Letson"
+
+Print(myName)
+print(myname)
