@@ -8,3 +8,8 @@ grades.sort(reverse=True)
 
 # Print the sorted list
 print("Sorted grades:", grades)
+
+# task 2 cal avg grade
+
+average_grade = sum(grades) / len(grades)
+print("average grade:",average_grade)
